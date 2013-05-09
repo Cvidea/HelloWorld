@@ -1,4 +1,3 @@
-
 public class HelloWorld {
 
     /**
@@ -6,6 +5,8 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO Stub de la méthode généré automatiquement
+
+        System.out.println("Hello World!");
 
     }
 
